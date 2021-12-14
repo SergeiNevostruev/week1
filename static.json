@@ -1,7 +1,8 @@
 {
  "headers": {
  "/*": {
-      "X-Autor":"sergeinevostruev"
+      "X-Autor":"sergeinevostruev",
+      "Access-Control-Allow-Origin":"*"
     }
  } 
   
