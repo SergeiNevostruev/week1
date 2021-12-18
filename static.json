@@ -1,9 +1,5 @@
 {
  "headers": {
- "/*": {
-      "X-Author": "sergeinevostruev",
-      "Access-Control-Allow-Origin":"*"
-    },
   "/login" {
       "login": "sergeinevostruev",
       "Content-Type": "text/plain; charset=UTF-8",
