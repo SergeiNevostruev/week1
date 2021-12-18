@@ -4,8 +4,9 @@
       "X-Autor": "sergeinevostruev",
       "Access-Control-Allow-Origin":"*"
        "/login": {
-       "X-Autor": "sergeinevostruev",
-       "Access-Control-Allow-Origin":"*"
+       "login": "sergeinevostruev",
+       "Access-Control-Allow-Origin":"*",
+        "Content-Type": "text/html; charset=UTF-8"
        }
     }
  } 
