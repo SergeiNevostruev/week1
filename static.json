@@ -3,6 +3,10 @@
  "/*": {
       "X-Autor": "sergeinevostruev",
       "Access-Control-Allow-Origin":"*"
+       "/login": {
+       "X-Autor": "sergeinevostruev",
+       "Access-Control-Allow-Origin":"*"
+       }
     }
  } 
   
